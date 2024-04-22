@@ -42,7 +42,7 @@ I'm a passionate software engineer who loves building cool stuff and learning ne
 - Machine Learning (Simplilearn)
 - Cloud Computing (Salyani Technology Private Limited)
 
-### Open source project and contributions
+## Open source project and contributions 🌟
 **OMRChecker**
 - It is an MCQ mark reader and I contributed an OCR to read hand written
   answers in paper during my thesis work.\
