@@ -4,10 +4,10 @@
 I'm a passionate software engineer who loves building cool stuff and learning new technologies. When I'm not coding, you can find me exploring the outdoors or trying out new recipes in the kitchen! 💻🚀
 
 ## Skills 💼
-- **Languages:** PHP, JavaScript, TypeScript, Python
-- **Frameworks:** Laravel, React, Node.js - (Nestjs), Flutter
+- **Languages:** JavaScript, TypeScript, PHP, Python
+- **Frameworks:** Node.js - (Nestjs), Laravel, React, Flutter
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, Jira, Bitbucket, AWS, Zoho
+- **Tools:** Git, Docker, Jira, Bitbucket, AWS, Azure, Zoho
 
 ## Projects 🚀
 ### Nepal Probationer Driving Licenses System
